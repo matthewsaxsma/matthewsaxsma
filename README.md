@@ -1,5 +1,3 @@
-<div style="background-color: #e6f7ff; padding: 20px;">
-
 <h1>👋 Hi, I’m Matthew. I am a second-year PhD student in the psychology department at the University of Illinois at Urbana-Champaign.</h1>
 
 <h2>How to reach me:
@@ -11,4 +9,4 @@
 matthewsaxsma/matthewsaxsma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-</div>
+
