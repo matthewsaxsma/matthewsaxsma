@@ -1,4 +1,4 @@
-<h1> Hey, I’m Matthew. I am going to be a third year PhD student in the psychology department at the University of Illinois at Urbana-Champaign. </h1>
+<h1> Hey👋, I’m Matthew. I am going to be a third year PhD student in the psychology department at the University of Illinois at Urbana-Champaign. </h1>
 
 <h2>How to reach me:
   <p>email: msaxsma2@illinois.edu </p>
@@ -6,7 +6,7 @@
 </h2>
 
 <!---
-👋matthewsaxsma/matthewsaxsma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+matthewsaxsma/matthewsaxsma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
