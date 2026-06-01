@@ -1,4 +1,4 @@
-<h1> Hey👋, I’m Matthew. I am a PhD student in the psychology department at the University of Illinois at Urbana-Champaign. </h1>
+<h1> Hey👋, I’m Matthew. I am a PhD student in the psychology department at the University of Illinois at Urbana-Champaign. I'm passionate about research methods, statistics, and data science.</h1>
 
 <h2>How to reach me:
   <p>email: msaxsma2@illinois.edu </p>
