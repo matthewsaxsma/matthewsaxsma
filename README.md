@@ -4,9 +4,9 @@
   <br>
   <br>
   <p>
-    email: msaxsma2@illinois.edu
+    <a href="mailto:msaxsma2@illinois.edu">msaxsma2@illinois.edu</a>
   <br>
-    address: 603 E Daniel St, Champaign, IL, 61820
+    <a href="https://www.google.com/search?q=Psychology+Building+University+of+Illinois">603 E Daniel St, Champaign, IL, 61820</a>
   </p>
 </h2>
 
